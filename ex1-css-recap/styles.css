@@ -1,0 +1,32 @@
+.banner {
+    background-color: gainsboro;
+    height: 80vh;
+    margin: 10vh 0;
+    text-align:center;
+    padding: 5px;
+}
+body {
+    padding: 0 ;
+    margin: 0;
+}
+.span {
+    font-size:250%;
+    text-shadow: 5px 5px 10px black;
+}
+
+.button {
+    background-color: coral;
+    color: white;
+    border: none;
+    border-radius: 15px;
+    font-size: 40px;
+    text-align: center;
+    text-decoration: ivory;
+    margin-top:50px;
+    padding: 15px;
+    cursor: pointer;
+}
+.content {
+    margin-top: 12%;
+    padding-left: 30%;
+}
