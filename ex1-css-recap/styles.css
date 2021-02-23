@@ -30,3 +30,6 @@ body {
     margin-top: 12%;
     padding-left: 30%;
 }
+.button a{
+    text-decoration: none;
+    color: white;
